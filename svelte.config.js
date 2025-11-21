@@ -19,6 +19,7 @@ const config = {
 				environment: undefined,
 				persist: undefined
 			},
+      		platform: 'node',
 			fallback: 'plaintext',
 			routes: {
 				include: ['/*'],
