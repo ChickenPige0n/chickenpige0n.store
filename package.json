@@ -25,6 +25,7 @@
 		"vite": "^7.1.10"
 	},
 	"dependencies": {
+		"@edgeone/sveltekit": "^1.0.0",
 		"@sveltejs/adapter-cloudflare": "^7.2.4"
 	}
 }
