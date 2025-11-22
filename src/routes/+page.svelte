@@ -4,7 +4,7 @@
 	if (browser)
 		setInterval(() => {
 			window.location.href =
-				"https://www.bilibili.com/video/BV1UT42167xb/";
+				"https://blog.chickenpige0n.store/";
 		}, 4000);
 </script>
 
